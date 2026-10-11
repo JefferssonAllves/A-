@@ -1,0 +1,14 @@
+# Arquivos locais e configurações de ambiente.
+.env
+.env.*
+venv/
+.venv/
+
+# Arquivos gerados pelo Python e pelos testes.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Arquivos temporários do editor.
+tempCodeRunnerFile.py
+.DS_Store
